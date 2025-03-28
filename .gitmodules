@@ -1,3 +1,6 @@
 [submodule "sensors"]
 	path = sensors
 	url = git@github.com:Hyperlink-London/software-esp-sensors.git
+[submodule "comms"]
+	path = comms
+	url = git@github.com:Hyperlink-London/software-esp-comms.git
