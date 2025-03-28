@@ -2,7 +2,7 @@
 #include <CommsOut.h>
 
 // Create global CommsOut and SensorManager instances
-CommsOut comms;
+CommsOut comms("esp-braking");
 SensorManager manager(&comms);
 
 void setup() {
