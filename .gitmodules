@@ -4,3 +4,6 @@
 [submodule "comms"]
 	path = comms
 	url = git@github.com:Hyperlink-London/software-esp-comms.git
+[submodule "interfaces"]
+	path = interfaces
+	url = git@github.com:Hyperlink-London/software-esp-interfaces.git
